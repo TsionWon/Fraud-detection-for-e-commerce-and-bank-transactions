@@ -4,3 +4,9 @@ seaborn
 jupyter
 numpy
 scikit-learn
+shap
+lime
+flask
+mlflow
+docker
+pytest
